@@ -1,1 +1,2 @@
 mars is a red planet.
+But mercury is much hotter (at least on one side).
