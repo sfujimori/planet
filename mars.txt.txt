@@ -1,2 +1,4 @@
 mars is a red planet.
+it is the planet afte rEarth.
+It is not as blue as Neptune.
 But mercury is much hotter (at least on one side).
